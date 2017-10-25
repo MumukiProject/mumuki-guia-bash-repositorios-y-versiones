@@ -1,1 +1,9 @@
-¿Son muchos archivos no? ...mostrar en los archivos en el filebrowser….  ¿Cuál es la que queremos usar? Veamos una mejor forma de tener control de nuestras versiones, git: una herramienta de control de versión, que está diseñada para hacer estas tareas más faciles y ordenadas
+¿Uff, son muchos archivos no? 
+
+...mostrar en los archivos en el filebrowser…. 
+
+Notá también que no sólo tenemos muchas versiones, sino que cada versión comprende varios archivos. Cuando queramos generar una nueva versión, ¿qué archivos deberemos copiar? 
+
+La verdad es que para menejar unas pocas versiones y unos pocos archivos, la estrategia anterior funcionó un tiempo, pero ya vemos sus limitaciones: es **muy** engorroso controlar nuestros cambios copiando y pegando archivos. 
+
+Pero manejar versiones debería ser fácil. ¡Veamos una mejor forma de hacerlo! 

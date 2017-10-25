@@ -1,3 +1,5 @@
-Un tiempo después, tras varias modificaciones, tenemos varias versiones. Pero esto no está libre de problemas. 
+Después de algunos meses y muchas, muchas modificaciones, volvemos a revisar nuestro currículum. En el medio le agregamos y cambiamos hojas de estilo, además de que cambiamos nuestra foto algunas veces.  
 
-> ¿Qué problema tiene ésto? Pedirles que hagan LS y vean cuantos archivos hay.
+Y aunque todo iba bien al principio, la cosa se nos está complicando... :confused:
+
+> ¿Te animás a descubrir el problema? Andá al directorio `curriculums` y listá todas las versiones. 
