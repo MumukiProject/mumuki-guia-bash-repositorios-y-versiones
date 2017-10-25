@@ -16,5 +16,5 @@ Initialized empty Git repository in /home/mumuki/curriculum/.git/
 
 Este proceso es necesario para informarle a `git` que `/home/mumuki/curriculum/` será un repositorio que nos permitirá guardar versiones. 
 
-> Veamos si se entiende: repetí estos 3 pasos en la terminal. 
+> Veamos si se entiende: repetí estos 3 pasos en la terminal 
 
