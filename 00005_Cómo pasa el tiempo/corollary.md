@@ -1,7 +1,5 @@
 ¿Uff, son muchos archivos no? 
 
-Por ejemplo, podríamos entrar en nuestro _explorador de archivos_ :open_file_folder::
-
 <div 
   class="mu-filebrowser" 
   data-file="{
@@ -34,4 +32,4 @@ Notá también que no sólo tenemos muchas versiones, sino que cada versión com
 
 La verdad es que para menejar unas pocas versiones y unos pocos archivos, la estrategia anterior funcionó un tiempo, pero ya vemos sus limitaciones: es **muy** engorroso controlar nuestros cambios copiando y pegando archivos. 
 
-Pero manejar versiones debería ser fácil. ¡Veamos una mejor forma de hacerlo! 
+Manejar versiones **debería ser fácil**. ¡Veamos una mejor forma de hacerlo! 
