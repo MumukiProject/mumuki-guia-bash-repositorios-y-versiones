@@ -11,11 +11,7 @@ $ touch capitulo1.txt
 # ..creamos un archivo vacío
 $ ls 
 capitulo1.txt
-```
-
-Si en este punto consultáramos por el estado del repositorio, tendríamos un resultado similar al siguiente:
-
-```bash
+# Ahora consultamos el estado del repositorio
 $ git status 
 On branch master
 
@@ -28,3 +24,11 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 ```
+
+Prestemos atención a la sección que dice _Untracked files_: si hay archivos acá listados significa que aún hay que incorporarlos al repositorio. 
+
+> Hacé `git add capitulo1.txt`, y luego `git status` y fijate si el mensaje cambia. 
+
+
+
+
