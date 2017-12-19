@@ -7,5 +7,35 @@ extra_visible: false
 manual_evaluation: false
 choices: []
 goal:
-  kind: last_query_matches
-  regexp: ls (.*)
+  kind: last_query_outputs
+  output: |-
+    curriculm-v1.html
+    curriculm-v10.html
+    curriculm-v11.html
+    curriculm-v12.html
+    curriculm-v13.html
+    curriculm-v14.html
+    curriculm-v15.html
+    curriculm-v16.html
+    curriculm-v17.html
+    curriculm-v18.html
+    curriculm-v19.html
+    curriculm-v2.html
+    curriculm-v20.html
+    curriculm-v21.html
+    curriculm-v22.html
+    curriculm-v23.html
+    curriculm-v24.html
+    curriculm-v25.html
+    curriculm-v26.html
+    curriculm-v27.html
+    curriculm-v28.html
+    curriculm-v29.html
+    curriculm-v3.html
+    curriculm-v30.html
+    curriculm-v4.html
+    curriculm-v5.html
+    curriculm-v6.html
+    curriculm-v7.html
+    curriculm-v8.html
+    curriculm-v9.html
