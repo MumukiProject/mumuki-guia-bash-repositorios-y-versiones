@@ -1,4 +1,4 @@
-¡Ahora te toca a vos! Tenemos un proyecto en `/home/mumuki/mi-blog` con los siguientes archivos:
+¡Ahora te toca a vos! Tenemos un proyecto en `/home/mumuki/pelitos` con los siguientes archivos:
 
 * `index.html`
 * `styles.css`

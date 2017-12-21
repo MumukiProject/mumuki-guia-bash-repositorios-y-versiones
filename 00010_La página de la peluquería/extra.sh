@@ -1,5 +1,5 @@
-mkdir mi-blog
-cd mi-blog
+mkdir pelitos
+cd pelitos
 touch index.html
 touch styles.css
 cd ..
