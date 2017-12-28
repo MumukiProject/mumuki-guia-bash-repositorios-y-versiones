@@ -27,7 +27,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 Prestemos atención a la sección que dice _Untracked files_: si hay archivos acá listados significa que aún hay que incorporarlos al repositorio. 
 
-> Hacé `git add capitulo1.txt`, y luego `git status` y fijate si el mensaje cambia. 
+> Movete a `auobiografia`, hacé `git add capitulo1.txt`, luego `git status` y fijate si el mensaje cambia. 
 
 
 
