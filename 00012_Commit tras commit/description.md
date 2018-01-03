@@ -3,7 +3,7 @@ Al principio, trabajar con versiones usando `git` es un poco tedioso: ¡son much
 Pero luego las cosas se hacen más fáciles. Por ejemplo...
 
 1. si queremos agregar más archivos, los creamos y los agregamos con `git add archivo`;
-2. si queremos modificar archivos existentes, los editamos directamente. 
+2. si queremos modificar archivos existentes, los editamos y agregamos los cambios también con `git add archivo`. 
 
 Y siempre al final, cuando todo está listo para confirmar los cambios y crear una nueva versión, hacemos `git commit -m "un mensaje descriptivo"`. 
 
