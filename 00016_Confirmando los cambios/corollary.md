@@ -1,4 +1,4 @@
-Repasemos entonces los pasos para crear un repositorio: 
+Uff, !mucha información junta hasta acá! :astonished: Repasemos entonces los pasos para crear un repositorio: 
 
 1. Crear un directorio, si no existe (`mkdir directorio`)
 2. Dirigirse a él (`cd directorio`)
