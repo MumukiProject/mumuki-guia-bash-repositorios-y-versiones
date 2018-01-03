@@ -8,7 +8,7 @@ manual_evaluation: false
 choices: []
 goal:
   kind: last_query_outputs
-  output: |-
+  output: |
     On branch master
 
     Initial commit
