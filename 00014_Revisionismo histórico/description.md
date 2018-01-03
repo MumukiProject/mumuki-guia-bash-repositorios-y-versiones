@@ -1,1 +1,1 @@
-TODO
+TODO: git checkout HEAD~1
