@@ -9,4 +9,4 @@ choices: []
 goal:
   kind: last_query_outputs
   output: "On branch master\n\nInitial commit\n\nChanges to be committed:\n  (use
-    \"git rm --cached <file>...\" to unstage)\n\n\tnew file:   capitulo1.txt\n\n"
+    \"git rm --cached <file>...\" to unstage)\n\n\tnew file:   capitulo1.txt\n"
