@@ -1,6 +1,6 @@
 ¿Ya terminamos de crear nuestra primera versión?
 
-No. Sólo creamos un repositorio, y agregamos archivos a éste, pero ésto no es suficiente: siempre que queramos crear una nueva versión tendremos que _confirmar los cambios_ que hicimos, como agregar archivos o hacerles cambios. 
+No. Sólo creamos un repositorio, y agregamos archivos, pero no es suficiente: siempre que queramos crear una nueva versión tendremos que _confirmar los cambios_ que hicimos, como agregar archivos o hacerles cambios. 
 
 O en inglés: tenemos que _hacer **commit**_. 
 
