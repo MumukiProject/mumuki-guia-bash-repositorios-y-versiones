@@ -1,1 +1,1 @@
- [Git puede servir para guardar cualquiera cosa]. Ahora te toca a vos: el siguiente proyecto tiene cambios. Descubrí cuales són, agregalos y  comitealos. Y una pequeña ayuda: git add -A.
+Como vimos hasta ahora,  [Git puede servir para guardar cualquiera cosa]. Ahora te toca a vos: el siguiente proyecto tiene cambios. Descubrí cuales són, agregalos y  comitealos. Y una pequeña ayuda: git add -A.
