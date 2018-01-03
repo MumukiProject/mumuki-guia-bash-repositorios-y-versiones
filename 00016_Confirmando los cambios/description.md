@@ -6,8 +6,8 @@ O en inglés: tenemos que _hacer **commit**_. Veámos cómo:
 
 ```bash
 # Creamos un repositorio nuevo...
-$ mkdir auobiografia
-$ cd auobiografia
+$ mkdir autobiografia
+$ cd autobiografia
 $ git init 
 Initialized empty Git repository in /home/mumuki/autobiografia/.git/
 
