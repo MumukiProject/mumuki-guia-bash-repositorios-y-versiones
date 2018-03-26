@@ -4,6 +4,6 @@ No. Sólo creamos un repositorio, y agregamos archivos, pero no es suficiente: s
 
 O en inglés: tenemos que _hacer **commit**_ :sunglasses:.
 
-> Hagamos nuestro primer commit en nuestra autobiografía. Ya estás en el directorio `/home/mumuki/autobiografia`, inicializaste el repostorio y agregaste `capitulo1.txt`. Ahora hacé `git commit -m "Primera versión"`.
+> Hagamos nuestro primer commit en nuestra autobiografía. Ya estás en el directorio `/home/mumuki/autobiografia`, inicializaste el repositorio y agregaste `capitulo1.txt`. Ahora hacé `git commit -m "Primera versión"`.
 
 
