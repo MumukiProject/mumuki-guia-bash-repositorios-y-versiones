@@ -8,4 +8,4 @@ manual_evaluation: false
 choices: []
 goal:
   kind: last_query_equals
-  value: TODO
+  value: git checkout HEAD~1
