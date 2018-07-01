@@ -1,4 +1,4 @@
-!Y nada de ésto tendría sentido si no pudieramos volver al presente! 
+¡Y nada de ésto tendría sentido si no pudieramos volver al presente! 
 
 Conozcamos un último comando: `git checkout master`, que nos permite volver a la última revisión, conocida justamente como.... ¡`master`!
 
