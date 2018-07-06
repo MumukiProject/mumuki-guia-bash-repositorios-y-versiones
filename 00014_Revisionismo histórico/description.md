@@ -6,3 +6,5 @@ Para ésto contamos con el comando `git checkout`, que nos permite mover entre v
 $ git checkout HEAD~1
 
 ```
+
+> Copiá el comando anterior en la consola para ver cómo funciona. 
